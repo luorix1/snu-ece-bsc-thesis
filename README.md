@@ -1,5 +1,8 @@
 # snu-ece-bsc-thesis 클래스
 
+## NOTE
+Made changes to the open-sourced, student community-built template to support Overleaf (a popular, online TeX editor)
+
 snu-ece-bsc-thesis 클래스는 서울대학교 전기정보공학부 학사학위논문 양식을 LaTeX으로 작성하기 위한 클래스입니다.
 
 `ko` 및 `en` 옵션으로 한국어와 영어 논문을 둘 다 지원합니다.
